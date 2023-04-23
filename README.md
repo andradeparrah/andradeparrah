@@ -8,7 +8,7 @@
 
 - 🏔️ I like outdoor activities.
 - 🤓 I started studying programming on YouTube.
-- 🏎️ I work as an operations engineer in an incredible startup that is revolutionizing the automotive industry. and I love it!.
+- 🏎️ I work as an operations engineer in an incredible startup that is revolutionizing the automotive industry and I love it!.
 - 🎵 I like listening to music mostly: Rock Venezolano, Linkin Park, Metallica, Paramore, Eminem, Creed, Drake.
 - 🐶🐶 Owner of two beasts.
 - 👹 I like anime, well... Just Kimetsu No Yaiba, Naruto Shippuden and Samurai X.
@@ -21,7 +21,7 @@
 
 ### I´ve learned
 
-[![HTML](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML])](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://github.com/DanSepulveda/DanSepulveda/blob/main/45px/bootstrap5.png)](https://getbootstrap.com/)

@@ -11,7 +11,6 @@
 - 🏎️ I work as an operations engineer in an incredible startup that is revolutionizing the automotive industry and I love it!.
 - 🎵 I like listening to music mostly: Rock Venezolano, Linkin Park, Metallica, Paramore, Eminem, Creed, Drake.
 - 🐶🐶 Owner of two beasts.
-- 👹 I like anime, well... Just Kimetsu No Yaiba, Naruto Shippuden and Samurai X.
 
 ## 💻 Latest Projects
 

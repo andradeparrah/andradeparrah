@@ -10,7 +10,7 @@
 - 🤓 I started studying programming on YouTube.
 - 🏎️ I work as an operations engineer in an incredible startup that is revolutionizing the automotive industry and I love it!.
 - 🎵 I like listening to music mostly: Rock Venezolano, Linkin Park, Metallica, Paramore, Eminem, Creed, Drake.
-- 🐶🐶 Owner of two beasts.
+- 🐶🐶 Master of two beasts.
 
 ## 💻 Latest Projects
 
